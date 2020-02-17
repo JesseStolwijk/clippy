@@ -1,0 +1,10 @@
+[package]
+name = "clippy"
+version = "0.1.0"
+authors = ["Jesse Stolwijk <stolwijkjesse@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clipboard = "0.5.0"
+reqwest = "0.9.24"
+clokwerk = "0.3.0"
